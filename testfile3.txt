@@ -1,0 +1,2 @@
+This is line 1 of testfile3.
+This is line 2 of testfile3.
